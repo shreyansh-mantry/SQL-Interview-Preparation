@@ -7,7 +7,7 @@
 ## 📝 Question
 
 ```sql
-/*
+
 The products table stores each product's attributes in separate columns:
 category, description, color and size.
 
@@ -17,7 +17,7 @@ one row per attribute, with the columns:
 
 Order the output by product_id, and within each product show the attributes in
 the order: Category, Description, Color, Size.
-*/
+
 ```
 
 ## 🗂️ Create Table
