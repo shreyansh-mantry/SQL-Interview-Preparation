@@ -7,7 +7,7 @@ Real-style SQL interview questions, ordered **Easy → Medium → Hard**, each w
 
 ## 🚀 How to Use This Repository
 
-1. Pick a question from the **[list below](#questions)** and open its **📄 Question** file.
+1. Pick a question from the repository and open its **📄 Question** file.
 2. Run the **Create Table** and **Insert Sample Data** blocks in MySQL 8.0+. No MySQL installed? Use **[DB Fiddle](#db-fiddle)**, explained below.
 3. Write your own query and compare your result with the **Expected Output**.
 4. Open the **💡 Solution** file to check your answer and read the step-by-step explanation.
